@@ -1,0 +1,25 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "Learning data stracture and algorithms using JS",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node mains.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamineDjenaihi/algorithm-dataStracture.git"
+  },
+  "author": "Lamine Djenaihi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LamineDjenaihi/algorithm-dataStracture/issues"
+  },
+  "homepage": "https://github.com/LamineDjenaihi/algorithm-dataStracture#readme"
+}
